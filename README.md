@@ -1,1 +1,1 @@
-# ThreadX_To_RT
+Middleware required by ThreadX components is used on Rt-Thread  
